@@ -35,7 +35,7 @@ html {
     --swiper-theme-color: var(--brand);
     --swiper-pagination-bullet-inactive-color: #CCCCCC;
     --swiper-pagination-bottom: -26px;
-
+     --swiper-pagination-bullet-size: 12px;
 
 }
 
@@ -345,6 +345,9 @@ footer p {
 }
 .info-lgpd p{
     margin-bottom: 0px;
+}
+.info-lgpd a {
+    color: #00ffff;
 }
 
 
